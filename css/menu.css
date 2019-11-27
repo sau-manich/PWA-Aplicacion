@@ -366,7 +366,11 @@ body {
 }
 
 #front-1 {
+<<<<<<< HEAD
     background-image: linear-gradient(rgba(204, 30, 88, 0.6), rgba(20, 20, 20, 0.6)), url("../img/1.png");
+=======
+    background-image: linear-gradient(rgba(204, 30, 88, 0.6), rgba(20, 20, 20, 0.6)), url("https://https://static.vecteezy.com/system/resources/previews/000/517/829/non_2x/vector-landscape-illustration.png");
+>>>>>>> 375df20290ba36adcda4692706c679513d31f9b2
 }
 
 #front-2 {
